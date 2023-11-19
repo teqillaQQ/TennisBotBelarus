@@ -1,1 +1,1 @@
-web: NIOHTTP1Server 0.0.0.0 
+web: NIOHTTP1Server 0.0.0.0
